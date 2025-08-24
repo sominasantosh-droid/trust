@@ -6,3 +6,5 @@ Burger
 Pizza
 Sandwich
 Gym
+Amino
+BCAA
