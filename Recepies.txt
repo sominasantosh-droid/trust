@@ -4,3 +4,5 @@ Welcome to Telusko Kitchen
 
 Burger
 Pizza
+Sandwich
+Gym
